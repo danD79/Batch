@@ -26,7 +26,7 @@ public class HelloWorld {
         System.out.println("result is --->"+ 234454 * 35336566);
         //taking notes in intelliJ without effect on the code using double /
         /*
-        thisgit
+        this
         is
         for
         multiple lines of comment
